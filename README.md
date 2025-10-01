@@ -1,9 +1,9 @@
 # Amazon QuickSight Project  
 
-## 📊 Project Title  
+##  Project Title  
 **From College Boards to Dashboards: Providing Data Insights to a Community College**  
 
-This project leverages **Amazon QuickSight** to transform raw institutional data into meaningful insights for a community college. The primary goal is to create **interactive dashboards** that track student demographics, enrollment, courses, and faculty evaluations—helping administrators, professors, and stakeholders make informed decisions.  
+In this project we  leverage **Amazon QuickSight** to transform raw institutional data into meaningful insights for a community college. The primary goal is to create **interactive dashboards** that track student demographics, enrollment, courses, and faculty evaluations—helping administrators, professors, and stakeholders make informed decisions.  
 
 ---
 
